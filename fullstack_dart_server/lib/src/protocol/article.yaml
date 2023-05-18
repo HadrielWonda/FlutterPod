@@ -1,0 +1,6 @@
+class: Article
+table: article
+fields:
+  title: String
+  content: String
+  createdAt: DateTime
